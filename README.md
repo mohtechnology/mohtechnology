@@ -25,8 +25,8 @@ I create One-Shot Lectures in Hindi on:
 - 🔧 **Git & GitHub**  
 - 🌐 **Flask & Django Projects**  
 
-🎥 [Check out my channel](https://www.youtube.com/@yourchannel)  
-📚 [View my course playlist](https://www.youtube.com/@yourchannel/playlists)
+🎥 [Check out my channel](https://www.youtube.com/@Mohtechnology?sub_confirmation=1)  
+📚 [View my course playlist](https://www.youtube.com/@Mohtechnology/playlists)
 
 ---
 
