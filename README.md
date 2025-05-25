@@ -16,14 +16,15 @@ Welcome to my GitHub! I'm a passionate **Python Developer**, **Tech Educator**, 
 
 ## 📺 My YouTube Channel
 
-I create One-Shot Lectures in Hindi on:
+I have created One-Shot Lectures in Hindi on:
 - 🚀 **FastAPI** 
 - 💻 **Flask**  
-- 🖥️ **Django**  
+- 🖥 **Django**  
 - 🛜 **Django Rest FrameWork**  
 - 🖼️ **Flet** Fullstack Development 
 - 🔧 **Git & GitHub**  
 - 🌐 **Flask & Django Projects**  
+- 🧑‍💻 **And Many More**  
 
 🎥 [Check out my channel](https://www.youtube.com/@Mohtechnology?sub_confirmation=1)  
 📚 [View my course playlist](https://www.youtube.com/@Mohtechnology/playlists)
@@ -35,7 +36,7 @@ I create One-Shot Lectures in Hindi on:
 - 🔗 **URL Shortener** using Flask  
 - ❓ **Moh Quiz** – Online Quiz Platform  
 - 📘 **Moh Blog** – A Flask-based blogging website
-- and Many More
+-  📚 **and Many More**
 
 ---
 
