@@ -1,4 +1,4 @@
-# [### ](https://www.youtube.com/@Mohtechnology?sub_confirmation=1) ### 👋 Hi, I'm Mohshin Mansuri!
+# [### ](https://www.youtube.com/@Mohtechnology?sub_confirmation=1)👋 Hi, I'm Mohshin Mansuri!
 
 Welcome to my GitHub! I'm a passionate **Python Developer**, **Tech Educator**, and **YouTuber** who loves building and teaching real-world projects using frameworks like **Flask**, **Django**, **FastAPI**, and **Flet**. I also make programming tutorials in **Hindi 🇮🇳** to help beginners understand complex topics easily.
 
