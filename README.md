@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **Python Developer**, **Tech Educator**, 
 
 ## 🚀 Tech Stack
 
-- **Languages**: Python, JavaScript, HTML, CSS, C++
+- **Languages**: Python, JavaScript
 - **Frameworks**: Django, Flask, FastAPI, Flet, Pygame
 - **Frontend**: Bootstrap, Tailwind CSS, React (basic)
 - **Tools**: Git, GitHub, PythonAnywhere, Google Cloud
@@ -31,15 +31,6 @@ I have created One-Shot Lectures in Hindi on:
 
 ---
 
-## 🛠️ Some Projects
-
-- 🔗 **URL Shortener** using Flask  
-- ❓ **Moh Quiz** – Online Quiz Platform  
-- 📘 **Moh Blog** – A Flask-based blogging website
--  📚 **and Many More**
-
----
-
 ## 💡 My Vision
 
 > “To empower students in India and beyond with **practical tech education** in their **mother tongue**.”
@@ -50,7 +41,7 @@ I have created One-Shot Lectures in Hindi on:
 
 - 📷 [YouTube](https://www.youtube.com/@Mohtechnology?sub_confirmation=1)
 - 🧑‍💻 [GitHub](https://github.com/mohtechnology)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohtechnology)
+- 💼 [Instagram](https://www.instagram.com/in/moh_technology)
 
 ---
 
