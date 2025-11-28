@@ -6,13 +6,23 @@ Welcome to my GitHub! I'm a passionate **Python Developer**, **Tech Educator**, 
 
 ## 🚀 Tech Stack
 
-- **Languages**: Python, JavaScript, Ruby
-- **Frameworks**: Django, Flask, FastAPI, Flet, Pygame, Tkinter
-- **Frontend**: Bootstrap, Tailwind CSS, React
-- **Tools**: Git, GitHub, PythonAnywhere, Google Cloud, Azure Cloud, Render
-- **Database**: SQLite, SQLalchemy
+### 🚀 Core Technologies
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,ruby" align="left" />
 
----
+<br><br>
+
+### 🎯 Frameworks & Libraries
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,react,bootstrap,tailwind" align="left" />
+
+<br><br>
+
+### 🔧 Tools & Platforms
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,vscode,postman,azure,gcp" align="left" />
+
+<br><br>
 
 ## 📺 My YouTube Channel
 
