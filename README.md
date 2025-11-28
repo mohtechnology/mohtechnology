@@ -6,11 +6,11 @@ Welcome to my GitHub! I'm a passionate **Python Developer**, **Tech Educator**, 
 
 ## 🚀 Tech Stack
 
-- **Languages**: Python, JavaScript
-- **Frameworks**: Django, Flask, FastAPI, Flet, Pygame
-- **Frontend**: Bootstrap, Tailwind CSS, React (basic)
-- **Tools**: Git, GitHub, PythonAnywhere, Google Cloud
-- **Database**: SQLite, PostgreSQL, MySQL
+- **Languages**: Python, JavaScript, Ruby
+- **Frameworks**: Django, Flask, FastAPI, Flet, Pygame, Tkinter
+- **Frontend**: Bootstrap, Tailwind CSS, React
+- **Tools**: Git, GitHub, PythonAnywhere, Google Cloud, Azure Cloud, Render
+- **Database**: SQLite, SQLalchemy
 
 ---
 
