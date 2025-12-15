@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Python Developer**, **Tech Educator**, 
 
 ### 🚀 Core Technologies
 <!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,ruby" align="left" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" align="left" />
 
 <br><br>
 
